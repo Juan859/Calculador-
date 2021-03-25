@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508871453 source:c:\users\mateo.juan\documents\codeblocks\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+
